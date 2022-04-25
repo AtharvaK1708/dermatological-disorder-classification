@@ -7,8 +7,8 @@
 ### The HAM10000 Dataset: A Large Collection of Multi-Source Dermatoscopic Images of Common Pigmented Skin Lesions : https://arxiv.org/abs/1803.10417
 
 ### Technologies Used : 
-* Tenserflow.js
-* Tenserflow
+* Tensorflow.js
+* Tensorflow
 * Keras
 * Python 
 * HTML, CSS, JavaScript
