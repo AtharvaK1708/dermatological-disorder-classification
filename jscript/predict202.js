@@ -45,8 +45,8 @@ $("#image-selector").change(function () {
 let model;
 (async function () {
 	
-	model = await tf.loadModel('http://concept.test.woza.work/final_model_kaggle_version1/model.json');
-	$("#selected-image").attr("src", "http://concept.test.woza.work/assets/samplepic.jpg")
+	model = await tf.loadModel('http://dermatological-classification.herokuapp.com/final_model_kaggle_version1/model.json');
+	$("#selected-image").attr("src", "http://dermatological-classification.herokuapp.com/assets/samplepic.jpg")
 	
 	
 	
